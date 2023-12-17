@@ -40,6 +40,7 @@ const createUser = async (req, res) => {
         await User.create(user);
 
         res.status(201).json({ message: 'Usuario creado exitosamente' });
+        console.log('Usuario creado exitosamente')
 
 
     } catch (error) {
