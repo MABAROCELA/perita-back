@@ -4,8 +4,30 @@ Aplicación MERN desarrollada con create-react-app para el proyecto final de la 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](https://imagesupload.net/image/aZkt)
-![Captura de Pantalla 2](https://imagesupload.net/image/ad8B)
+![PERITA_01](https://github.com/MABAROCELA/perita-front/assets/129613112/32e95368-4fff-4380-b87f-6256c4392f86)
+
+![PERITA_02](https://github.com/MABAROCELA/perita-front/assets/129613112/c47b76bc-26db-4165-bf58-5910c5ed971e)
+
+
+## Descripción de la App:
+
+### Admin:
+
+- Gestión de usuarios (create, read, update, delete)
+- Gestión de productos (create, read, update, delete)
+
+### Cliente:
+
+- Registro de usuario
+- Login
+- Acceso a los productos
+- Suscripción a newsletter
+
+## Usuarios:
+
+- admin@gmail.com / 1234
+- cliente@gmail.com / cliente
+
 
 ## Tecnologías Utilizadas
 
@@ -87,12 +109,12 @@ npm run dev
 ```
 
 
-### VARIABLES ENTORNO FRONT:
+## VARIABLES ENTORNO FRONT:
 
 - REACT_APP_API_KEY= *api key de apiweather*
 - REACT_APP_BACK_URL= *URL del localhost con puerto o deploy url del back*
 
-### VARIABLES DE ENOTRNO BACK:
+## VARIABLES DE ENOTRNO BACK:
 
 - PORT= *número de puerto local back*
 - URL_ATLAS= *URL de la base de datos Mongo Atlas con usuario y password*
@@ -102,6 +124,9 @@ npm run dev
 - NODE_ENV= *development o production*
 - SESSION_SECRET= *código de sesión*
 - URL_FRONT= *URL localhost con puerto o URL de deploy back*
+
+# DEPLOY: 
+(https://perita-front.vercel.app/)
 
 ## Contacto:
 
