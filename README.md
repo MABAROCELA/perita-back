@@ -89,17 +89,22 @@ npm run dev
 
 ### VARIABLES ENTORNO FRONT:
 
-REACT_APP_API_KEY= *api key de apiweather*
-REACT_APP_BACK_URL= *URL del localhost con puerto o deploy url del back*
+- REACT_APP_API_KEY= *api key de apiweather*
+- REACT_APP_BACK_URL= *URL del localhost con puerto o deploy url del back*
 
 ### VARIABLES DE ENOTRNO BACK:
 
-PORT= *número de puerto local back*
-URL_ATLAS= *URL de la base de datos Mongo Atlas con usuario y password*
-URL_DB_SESSION= *URL de la base de datos Mongo Atlas con usuario y password*
-PASSGMAIL= *password de email de Gmail*
-USERGMAIL= *dirección de Gmail*
-NODE_ENV= *development o production*
-SESSION_SECRET= *código de sesión*
-URL_FRONT= *URL localhost con puerto o URL de deploy back*
+- PORT= *número de puerto local back*
+- URL_ATLAS= *URL de la base de datos Mongo Atlas con usuario y password*
+- URL_DB_SESSION= *URL de la base de datos Mongo Atlas con usuario y password*
+- PASSGMAIL= *password de email de Gmail*
+- USERGMAIL= *dirección de Gmail*
+- NODE_ENV= *development o production*
+- SESSION_SECRET= *código de sesión*
+- URL_FRONT= *URL localhost con puerto o URL de deploy back*
 
+## Contacto:
+
+Marta Barocela
+marbarocela@gmail.com
+https://www.linkedin.com/in/marta-barocela/
